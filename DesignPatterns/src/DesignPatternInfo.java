@@ -1,4 +1,3 @@
-
 public class DesignPatternInfo {
 
 	/**
@@ -15,6 +14,15 @@ public class DesignPatternInfo {
 	 * 
 	 */
 	
+	/**
+	 * Please study Design Patterns in following order.
+	 * 1. Creational Design Patterns
+	 * 	1.1	Singleton
+	 * 	1.2 Factory Pattern
+	 * 	1.3 Abstract Factory Pattern
+	 * 	1.4 Builder Pattern
+	 * 	1.5 Prototype Pattern
+	 */
 	
 	//types of design patterns
 	/**
