@@ -7,7 +7,7 @@ package com.creational;
  *  -	Factory Pattern
  *  -	Abstract Factory Pattern
  *  -	Builder Pattern
- * 
+ *  -	Prototype Design Pattern
  */
 
 public class CreationalDesignPatterns{}
